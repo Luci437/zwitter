@@ -1,0 +1,783 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"webkitT",
+				"webkitTransitionDelay"
+			],
+			[
+				"ro",
+				"rotateX"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"can",
+				"canvas"
+			],
+			[
+				"get",
+				"getContext"
+			],
+			[
+				"borde",
+				"border-radius"
+			],
+			[
+				"el1",
+				"el10"
+			],
+			[
+				"flag",
+				"flag-button-cir3-1-1"
+			],
+			[
+				"flag-",
+				"flag-button-cir1"
+			],
+			[
+				"flag-button",
+				"flag-button-cir3-1"
+			],
+			[
+				"anima",
+				"webkit-animation-play-state"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"in",
+				"infinite"
+			],
+			[
+				"onmo",
+				"onmouseover	Attr"
+			],
+			[
+				"flag-button-bac",
+				"flag-button-background2"
+			],
+			[
+				"fla",
+				"flag-button-cir1"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"Fon",
+				"font-family"
+			],
+			[
+				"ease",
+				"ease-out"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"left",
+				"leftvalue"
+			],
+			[
+				"rem",
+				"remain_num"
+			],
+			[
+				"f",
+				"Freak"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"p",
+				"proremno"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"onm",
+				"onmouseout	Attr"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"el",
+				"el2"
+			],
+			[
+				"border-bott",
+				"border-bottom-width"
+			],
+			[
+				"l",
+				"linear"
+			],
+			[
+				"ond",
+				"ondblclick	Attr"
+			],
+			[
+				"t",
+				"t1"
+			],
+			[
+				"ge",
+				"get	Get Elements"
+			],
+			[
+				"onmou",
+				"onmousedown	Attr"
+			],
+			[
+				"g",
+				"get	Get Elements"
+			],
+			[
+				"dote-top72",
+				"dote-top72345"
+			],
+			[
+				"rgb",
+				"rgba()"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"border-bo",
+				"border-bottom-color"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"bac",
+				"border-spacing"
+			],
+			[
+				"border-b",
+				"border-bottom-color"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"logo",
+				"logo-bar3"
+			],
+			[
+				"ca",
+				"canvas	Tag"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"o",
+				"overflow"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"we",
+				"welcomeClose"
+			],
+			[
+				"fi",
+				"fillStyle"
+			],
+			[
+				"canvas",
+				"canvas1"
+			],
+			[
+				"onMouse",
+				"onmouseup	Attr"
+			],
+			[
+				"backgrp",
+				"background-position"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"ran",
+				"rand"
+			],
+			[
+				"dna",
+				"dna-line1"
+			],
+			[
+				"her",
+				"hero2"
+			],
+			[
+				"for",
+				"forwards"
+			],
+			[
+				"me",
+				"method1"
+			],
+			[
+				"pr",
+				"propery1"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"rb",
+				"rgba()"
+			],
+			[
+				"st",
+				"style	Tag"
+			],
+			[
+				"L",
+				"Lname"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"my",
+				"myName"
+			],
+			[
+				"us",
+				"username"
+			],
+			[
+				"c",
+				"correct"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"va",
+				"valid"
+			],
+			[
+				"re",
+				"result"
+			],
+			[
+				"incr",
+				"increase"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"u",
+				"Unsuccessfull"
+			],
+			[
+				"s",
+				"Successfull"
+			],
+			[
+				"border-",
+				"border-color"
+			],
+			[
+				"str",
+				"stringA"
+			],
+			[
+				"ON",
+				"onclick	Attr"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/test.html",
+		"/H/Html/Zwitter/drawing.js",
+		"/H/Html/Zwitter/time.js",
+		"/H/Html/Zwitter/slide.js",
+		"/H/Html/Zwitter/proshow.js",
+		"/H/Html/Zwitter/pro-light.js",
+		"/H/Html/Zwitter/logoclick.js",
+		"/H/Html/Zwitter/lefttorightto.js",
+		"/H/Html/Zwitter/jas.js",
+		"/H/Html/Zwitter/flag.js",
+		"/H/Html/Zwitter/javasc.js",
+		"/H/Html/Zwitter/openbox.js",
+		"/H/Html/Zwitter/Index.html",
+		"/H/Html/Zwitter/leaser.css",
+		"/H/Html/Zwitter/style.css",
+		"/H/Html/Zwitter/style2.css",
+		"/H/Html/Zwitter/pzdotes.js",
+		"/H/Html/Zwitter/mouseleft.js",
+		"/H/Html/Zwitter/jq.js",
+		"/H/Examples of html/closing windows.html",
+		"/H/test.html",
+		"/H/Tutorials/Html fireworks/fireworks.html",
+		"/C/Users/user/Documents/NetBeansProjects/MyFirstJavaPro/nbproject/private/profiler/configurations.xml",
+		"/H/xml/1ST Xml/style.css",
+		"/H/xml/1ST Xml/index.xml",
+		"/C/Users/user/Desktop/test2.html",
+		"/H/Html/Zwitter/[autorun].inf",
+		"/C/Users/user/Desktop/Fwd  INVITATION - KANAMALA HS - anoopsoman1989@gmail.com - Gmail.htm",
+		"/H/Html/exi/style.css",
+		"/H/City Car Driving Home Edition/manual.chm",
+		"/C/Users/user/Desktop/web.html",
+		"/H/Html/exi/index.html",
+		"/H/Html/exi/New Text Document.html",
+		"/C/TurboC++/Disk/TurboC3/BIN/TIME_TAB.CPP",
+		"/C/TurboC++/Disk/TurboC3/BIN/TABLE.DAT",
+		"/C/Users/user/Downloads/(1) Facebook.htm",
+		"/C/Users/user/Desktop/onmousemove.html",
+		"/H/Html/last/style.css",
+		"/H/Html/last/index.html",
+		"/C/TurboC++/Disk/TurboC3/BIN/PROJECT.CPP",
+		"/C/TurboC++/Disk/TurboC3/BIN/EMP.DAT",
+		"/C/TurboC++/Disk/TurboC3/BIN/COCONUT.DAT",
+		"/H/Movies/New folder/AVSEQ02.DAT",
+		"/I/MPEGAV/AVSEQ01.DAT",
+		"/I/MPEGAV/AVSEQ02.DAT",
+		"/C/Users/user/Desktop/project.cpp",
+		"/H/HTML TUTORIALS/random.html",
+		"/H/d/Helvetica Clock.htm",
+		"/C/Users/user/Desktop/time.html",
+		"/H/Examples of html/benzene curve.html",
+		"/H/Html/siva/Index.html",
+		"/H/Html/siva/style.css",
+		"/H/Html/siva/slide.js",
+		"/H/Html/siva/javasc.js",
+		"/H/Html/siva/drawing.js",
+		"/H/Html/intro2/style.css",
+		"/H/Html/intro2/first.html",
+		"/H/Html/christ/time.js",
+		"/H/Html/christ/wave.js",
+		"/H/Html/christ/js.js",
+		"/H/Html/christ/style.css",
+		"/H/Html/christ/index.html",
+		"/H/Html/webscri/jscript.js",
+		"/C/Users/user/Documents/test.html",
+		"/H/Html/fish/java.js",
+		"/H/Html/webscri/style.css",
+		"/H/Html/webscri/index.html",
+		"/H/HTML TUTORIALS/something-about-javascript.html",
+		"/H/HTML TUTORIALS/Untitled-3.html",
+		"/H/HTML TUTORIALS/ggvng.html",
+		"/H/Html/semi/style.css",
+		"/H/Html/semi/javascript.js",
+		"/H/Html/semi/home.html",
+		"/D/New folder/JAVASCRIPT/[EllieQuigley]_JavaScript_by_Example(BookFi.org).chm",
+		"/H/Html/Annual Day 2015/index.html",
+		"/H/Html/ANNUAL DAY 2015/js.js",
+		"/H/Html/ANNUAL DAY 2015/style.css",
+		"/H/Html/Annual Day 2015/javascript.js",
+		"/H/Html/Annual Day 2015/style1.css",
+		"/H/Html/school website/javascript.js",
+		"/H/Html/school website/style.css",
+		"/H/Html/school website/index.html",
+		"/E/Books/BACK_TRACK/NESSUS.chm",
+		"/E/Documents/slideshow of images.jquery/index.html",
+		"/C/Users/user/Documents/jq2/index.html",
+		"/H/HTML TUTORIALS/3d.html",
+		"/C/Users/user/Documents/slideshow of images.jquery/index.html",
+		"/C/Users/user/Documents/jQuery/jQuery test.html",
+		"/C/Users/user/Documents/random.html",
+		"/H/Html/web scripting/index.html",
+		"/H/Html/web scripting/notes/wh/index.html",
+		"/H/Html/thanks.css",
+		"/H/Html/thanks.html",
+		"/H/Html/family-tree/home.html",
+		"/H/Html/web scripting/notes/style4.css",
+		"/H/Html/web scripting/notes/note.html",
+		"/H/Html/4th generation/logo.html",
+		"/H/Html/4th generation/logostyle.css",
+		"/H/Html/4th generation/first-page.html",
+		"/C/Users/user/Documents/oops-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/gentilman.html",
+		"/C/Users/user/Documents/form-email-checking-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/concatination-of-a-string-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/login-using-return-switch-case-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/login-using-function-returning-values-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/body-onload-and-unload-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/slaray-increase-using-function-using-javascript.html",
+		"/C/Users/user/Documents/array-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/animating-a-box-with-javascript-sublime-test.html",
+		"/H/Html/intro3/index.html",
+		"/H/Html/intro3/style.css",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/user/AppData/Roaming/Sublime Text 3/Packages/User/html.sublime-build",
+		"/C/Users/user/Documents/sublime-test.html",
+		"/C/Users/user/Documents/sublime-test.css",
+		"/C/Users/user/Documents/do-while-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/while-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/for-loop-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/switch-case-using-javascript-sublime-test.html",
+		"/C/Users/user/Documents/login-using-java-sublime-test.html",
+		"/C/Users/user/Documents/while-loop-using-javascript-sublime-test-2.html",
+		"/H/Html/fish/canvas-javascript.html"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"font-family:",
+			"waite-sec",
+			"cheif-img",
+			"#wrong",
+			"goclick(",
+			"goclick(2);",
+			"m",
+			"count2",
+			"ti ",
+			"count2",
+			"#programe-no-one",
+			"#programe-no-twenty",
+			"#programe-no-tweny",
+			"programe-no-two",
+			"p",
+			"programe-",
+			"flag-mid-bars",
+			"bar",
+			"flag-midd",
+			"flag-button-cir3-1",
+			"programe-no-one",
+			"\"no\"",
+			"Metro Skies",
+			"pro1-detials",
+			"programme-details",
+			"jumb",
+			"logoclick",
+			"background: rgba(14,14,14,0.3);transition: 0.3s ease-in;cursor: pointer;",
+			"	background: rgba(14,14,14,0.3);transition: 0.8s ease-in;cursor: pointer;",
+			"background: rgba(14,14,14,0.3);transition: 0.8s;cursor: pointer;",
+			"pro-remain-box-light",
+			"logocome",
+			"logo-bottom-light",
+			"go-to",
+			"lock-cover",
+			"text-shutdown",
+			"cheif-img",
+			"pro1current",
+			"current-pro-number",
+			"pro-remain-box-light",
+			"logoclick()",
+			"zwitter",
+			"background: rgba(14,14,14,0.3);transition: 0.8s;cursor: default;",
+			"background: rgba(14,14,14,0.3);transition: 0.8s;",
+			"shutclose",
+			"rgba(65,119,227,0.0)",
+			".style;",
+			"background: rgba(14,14,14,0.3);",
+			"pro-one",
+			"limit-indicator",
+			"pro1()",
+			"top: 15px;",
+			"one",
+			"pro-list-bottom-light11",
+			"-->				",
+			"100px",
+			"200",
+			"-180",
+			"-220",
+			"num = 15",
+			"20s",
+			"30s",
+			"time-ind",
+			"logoclick()",
+			"background: rgba(238,246,255,1.00);box-shadow: 0 0 5px rgba(0,0,0,1.0) inset,0 0 10px rgba(238,246,255,1.00);",
+			"background: rgba(238,246,255,0.00);box-shadow: 0 0 5px rgba(0,0,0,1.0) inset,0 0 10px rgba(238,246,255,0.00);",
+			"40s",
+			" {",
+			"}\n",
+			"el7",
+			"welcome",
+			"shutdown",
+			"thank",
+			"thank-list-box",
+			"playloading()",
+			"510px",
+			"thanks-big-box",
+			"thanks-list-box",
+			"display",
+			"lock",
+			"lo-cir6",
+			"lo-bar1",
+			"135deg",
+			"10deg",
+			";\n",
+			"cheif-left-to",
+			"text-wel",
+			"slidenext",
+			"go-to-top",
+			"lightred(",
+			"lightred()",
+			"lightred",
+			"cdown",
+			"cup",
+			"cdown",
+			"background-shade2",
+			"thank-list-box",
+			"progra-list-box",
+			"vice",
+			"pri-name",
+			"';\n",
+			"left-bottom-box1",
+			"opacity = '0.2'",
+			"el145",
+			"el145.style.opacity = '1';",
+			"background: rgba(233,255,224,0.91);",
+			"p-z-dote51",
+			"date",
+			"opacity: 0.2;",
+			"opacity: 0;",
+			"opacity: 0.5;",
+			"oblivin",
+			"');\n",
+			"title",
+			"4",
+			"log",
+			";\n",
+			"top",
+			"background: rgba(255,255,255,0.8);",
+			"top",
+			"height: 65px;",
+			"top",
+			"330px",
+			"220",
+			"215",
+			"200",
+			"(\"slide6\")",
+			"#fff"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fivetwo",
+			"flag-middle-circle-bar",
+			"\"NO\"",
+			"Super Rad",
+			"background: rgba(14,14,14,0.3);transition: 0.3s ease-out;cursor: pointer;",
+			"background: rgba(14,14,14,0.3);transition: 0.3s ease-in;cursor: pointer;",
+			"background: rgba(14,14,14,0.3);transition: 0.8s ease-in;cursor: pointer;",
+			"background: rgba(14,14,14,0.3);transition: 0.8s;cursor: pointer;",
+			"background: rgba(14,14,14,0.3);transition: 0.8s;cursor: default;",
+			"rgba(14,14,14,0.3)",
+			";",
+			"background: rgba(14,14,14,0.3);transition: 0.8s;",
+			"top: 25px;",
+			"50px",
+			"220",
+			"-200",
+			"-180",
+			"num = 20",
+			"10s",
+			"20s",
+			"background: rgba(238,246,255,0.00);box-shadow: 0 0 5px rgba(0,0,0,1.0) inset,0 0 10px rgba(238,246,255,0.00),0 0 200px rgba(238,246,255,1.00);",
+			"opacity = '0.1'",
+			"background: rgba(233,255,224,0.91);opacity : 1;",
+			"dote",
+			"opacity: 0.1;",
+			"opacity: 0.2;",
+			"logo",
+			"bottom",
+			"background: rgba(255,255,255,0.8);-webkit-transform: rotate(180deg);",
+			"bottom",
+			"height: 65px;top: 65px;",
+			"bottom",
+			"225",
+			"220",
+			"210"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 25.0
+	},
+	"project": "Index.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wel",
+				"H:\\Html\\Zwitter\\leaser.css"
+			],
+			[
+				"",
+				"H:\\Html\\Zwitter\\pzdotes.js"
+			],
+			[
+				"er",
+				"H:\\Html\\Zwitter\\lefttorightto.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
